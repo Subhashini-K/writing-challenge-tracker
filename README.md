@@ -73,3 +73,8 @@ A full-stack web application built with Next.js to help writers track their dail
 ### WritingLog
 - challengeId, userId, date, wordCount, notes, timestamps
 
+
+
+### Deployment Link
+https://writing-challenge-tracker.vercel.app
+
